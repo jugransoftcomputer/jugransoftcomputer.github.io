@@ -22,7 +22,7 @@ function initParticles() {
                     "polygon": {
                         "nb_sides": 5
                     }
-                },
+                },      
                 "opacity": {
                     "value": 0.5,
                     "random": false,

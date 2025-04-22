@@ -70,7 +70,7 @@ window.addEventListener('load', function() {
                 updateCount();
             });
         }
-    }
+    }       
     
     window.addEventListener('scroll', startCounting);
     window.addEventListener('load', startCounting);

@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (themeToggle) {
         themeToggle.addEventListener('click', toggleTheme);
     }
-    
+            
     // Navegación Responsive
     const hamburger = document.querySelector('.hamburger');
     const navMenu = document.querySelector('.nav-menu');
